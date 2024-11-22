@@ -1,0 +1,49 @@
+name: kip.wisoky
+description: Sharable
+version: 0.0.1
+author: rpaarlh0.kqnfftld@ffbz8jja.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: kipwisoky
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:12:34'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:12:34'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:12:34.378218Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1076892134'
+  createdAt: '2024-11-22T23:12:34.378218Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
